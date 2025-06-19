@@ -7,10 +7,8 @@
     <img alt="Fabriqa Logo" src="./graphics/fabriqa_dark.png" width="400">
   </picture>
   
-  <h1>Fabriqa Public Community</h1>
-  
   <p>
-    <strong>The official community hub for Fabriqa - Backend in Seconds, Not Sprints</strong>
+    <strong>Backend in Seconds, Not Sprints</strong>
   </p>
   
   <p>
@@ -22,111 +20,65 @@
   </p>
 </div>
 
-<br />
+## Welcome to Fabriqa
 
----
+Fabriqa is the first backend platform specifically designed for multi-tenant SaaS applications. We eliminate backend complexity, allowing developers to focus on building features that differentiate their products.
 
-## 🎯 What is Fabriqa?
+### Core Features
 
-Fabriqa is the first backend platform specifically designed for multi-tenant SaaS applications. We handle the complex infrastructure so you can focus on building features that matter.
+- **Automatic Multi-Tenancy** - Complete data isolation implemented automatically
+- **Built-in User Management** - Authentication, team management, and permissions included
+- **Hybrid Database Architecture** - Query like SQL, scale like NoSQL
+- **90-Day Time Machine** - Comprehensive data versioning and rollback capabilities
+- **Instant APIs** - Production-ready backend in 30 seconds
 
-### Key Features
-- 🔐 **Automatic Multi-Tenancy** - Complete data isolation out of the box
-- 👥 **Built-in User Management** - Authentication, teams, and permissions included
-- ⚡ **Hybrid Database Architecture** - Query like SQL, scale like NoSQL
-- 🕰️ **90-Day Time Machine** - Roll back any data changes
-- 🚀 **Instant APIs** - Your backend ready in 30 seconds
+## Purpose of This Repository
 
-## 🌟 Why This Repository?
+This repository serves as the central hub for community engagement and transparent development. It provides:
 
-This is your space to:
+- **Feature Requests** - Propose and discuss features that would enhance your development experience
+- **Issue Reporting** - Report bugs and technical issues encountered during beta testing
+- **Community Discussions** - Connect with other developers building on Fabriqa
+- **Development Tracking** - Monitor our progress and upcoming releases
+- **Technical Support** - Receive assistance from both the team and community
 
-- 💡 **Share Ideas** - Suggest features that would make your development easier
-- 🐛 **Report Issues** - Help us identify and fix bugs during our beta
-- 💬 **Join Discussions** - Connect with other developers building on Fabriqa
-- 📊 **Track Progress** - See what we're building and what's coming next
-- 🤝 **Get Support** - Ask questions and get help from the community
+## Community Discussions
 
-## 🗣️ Join the Discussion
-
-We've enabled GitHub Discussions as our primary community platform. Here's how to participate:
+We utilize GitHub Discussions as our primary community platform, organized into the following categories:
 
 ### Discussion Categories
 
-- **📢 Announcements** - Official updates from the Fabriqa team
-- **💡 Ideas & Feature Requests** - Suggest new features or improvements
-- **🐛 Bug Reports** - Report issues you've encountered
-- **❓ Q&A** - Ask questions and get help
-- **🎯 Show and Tell** - Share what you're building with Fabriqa
-- **💬 General** - Everything else Fabriqa-related
+- **Announcements** - Official updates and releases from the Fabriqa team
+- **Ideas & Feature Requests** - Propose new features and improvements
+- **Bug Reports** - Report technical issues and unexpected behavior
+- **Q&A** - Ask questions and receive technical support
+- **Show and Tell** - Share projects built with Fabriqa
+- **General** - All other Fabriqa-related discussions
 
-### How to Contribute
+### Contributing to Discussions
 
-1. **Start a Discussion** - Click the [Discussions tab](https://github.com/astrum-forge/fabriqa-public/discussions) and choose a category
-2. **Be Specific** - Include details, examples, or mockups when suggesting features
-3. **Be Respectful** - We're all here to make backend development better
-4. **Vote and Comment** - Support ideas you like and add your perspective
+To ensure productive conversations:
 
-## 🗺️ Public Roadmap
+1. **Search First** - Review existing discussions before creating new ones
+2. **Provide Context** - Include detailed information, examples, and use cases
+3. **Be Professional** - Maintain respectful and constructive dialogue
+4. **Engage Thoughtfully** - Vote on ideas and contribute meaningful feedback
 
-We believe in building in public. Track our progress and see what's coming:
+## Development Roadmap
+
+We maintain complete transparency in our development process. Track our progress and priorities through our public project board.
 
 <div align="center">
-  <a href="https://github.com/orgs/astrum-forge/projects/10">
+  <a href="https://github.com/orgs/astrum-forge/projects/11">
     <img src="https://img.shields.io/badge/View%20Live%20Roadmap-00D4FF?style=for-the-badge&logo=github&logoColor=white" alt="View Roadmap">
   </a>
 </div>
 
-## 🤝 Community Guidelines
+## Community Guidelines
 
-To keep our community welcoming and productive:
+We are committed to maintaining a professional and welcoming environment:
 
-1. **Be Kind** - Treat everyone with respect
-2. **Be Constructive** - Focus on solutions, not just problems
-3. **Be Patient** - We're a small team working hard to build something great
-4. **Be Clear** - Provide context and examples in your discussions
-5. **Be Original** - Search existing discussions before creating new ones
-
-## 📫 Other Ways to Connect
-
-- **Website**: [fabriqa.io](https://fabriqa.io)
-- **Email**: info@astrumforge.com
-- **GitHub**: [@astrum-forge](https://github.com/astrum-forge)
-- **LinkedIn**: [Fabriqa on LinkedIn](https://linkedin.com/company/afs-fabriqa)
-
-## 🎉 Join Our Beta
-
-We're currently in closed beta with 147+ developers already on board. Want early access?
-
-<div align="center">
-  <a href="https://fabriqa.io">
-    <img src="https://img.shields.io/badge/Join%20the%20Beta%20Waitlist-00D4FF?style=for-the-badge&logo=rocket&logoColor=white" alt="Join Beta">
-  </a>
-</div>
-
-<br />
-
-Beta users get:
-- 🎁 1 million bonus operations at launch
-- 🚀 Early access to all features
-- 💬 Direct line to the founding team
-- 🏷️ Exclusive beta pricing
-
-## 📄 License & Legal
-
-This repository is for community discussion only. Fabriqa's platform code is proprietary, though our SDKs will be open source.
-
-- [Terms of Service](https://fabriqa.io/terms)
-- [Privacy Policy](https://fabriqa.io/privacy)
-
----
-
-<div align="center">
-  <p>
-    <sub>Built with ❤️ by <a href="https://astrumforge.com">Astrum Forge Studios</a> in Melbourne, Australia</sub>
-  </p>
-  
-  <p>
-    <sub>© 2025 Astrum Forge Pty Ltd. All rights reserved.</sub>
-  </p>
-</div>
+1. **Respectful Communication** - Treat all community members with respect
+2. **Constructive Feedback** - Focus on solutions rather than problems
+3. **Professional Standards** - Maintain appropriate conduct in all interactions
+4. **Accurate Information** - Share verified and helpf
