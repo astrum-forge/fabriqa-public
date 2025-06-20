@@ -14,7 +14,7 @@
   <p>
     <a href="https://github.com/astrum-forge/fabriqa-public/discussions"><img src="https://img.shields.io/github/discussions/astrum-forge/fabriqa-public?color=00D4FF&logo=github" alt="Discussions"></a>
     <a href="https://fabriqa.io"><img src="https://img.shields.io/badge/website-fabriqa.io-00D4FF" alt="Website"></a>
-    <a href="https://github.com/orgs/astrum-forge/projects/10"><img src="https://img.shields.io/badge/roadmap-public-00D4FF" alt="Public Roadmap"></a>
+    <a href="https://github.com/orgs/astrum-forge/projects/11"><img src="https://img.shields.io/badge/roadmap-public-00D4FF" alt="Public Roadmap"></a>
     <a href="https://linkedin.com/company/afs-fabriqa"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin" alt="LinkedIn"></a>
     <a href="#"><img src="https://img.shields.io/badge/status-closed%20beta-yellow" alt="Status"></a>
   </p>
